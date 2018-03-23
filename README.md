@@ -18,3 +18,8 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+  * Env install:  https://gist.github.com/likethesky/abb00e5aedc38ee9f711
+
+  * Debugging article:  https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11
+
+  * Elixir for Rubyists:  https://gist.github.com/tute/3c295b73f5ba8375b153b835d6de1153
